@@ -11,3 +11,5 @@ vendor.rild.libpath=libsitril.so
 
 # SSR
 vendor.debug.ssrdump.type=sscoredump
+
+ro.oem_unlock_supported=1
